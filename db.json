@@ -1,0 +1,25 @@
+{
+  "pokemon": [
+    {
+      "id": 1,
+      "name": "Bulbasaur",
+      "sprites": {
+        "front_default": "https://cdn.jsdelivr.net/gh/PokeMiners/pogo_assets/Images/Pokemon%20-%20256x256/pokemon_icon_001_00.png"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Ivysaur",
+      "sprites": {
+        "front_default": "https://cdn.jsdelivr.net/gh/PokeMiners/pogo_assets/Images/Pokemon%20-%20256x256/pokemon_icon_002_00.png"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Venusaur",
+      "sprites": {
+        "front_default": "https://cdn.jsdelivr.net/gh/PokeMiners/pogo_assets/Images/Pokemon%20-%20256x256/pokemon_icon_003_00.png"
+      }
+    }
+  ]
+}
