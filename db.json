@@ -99,20 +99,6 @@
       }
     },
     {
-      "id": 14,
-      "name": "Kakuna",
-      "sprites": {
-        "front_default": "https://cdn.jsdelivr.net/gh/PokeMiners/pogo_assets/Images/Pokemon%20-%20256x256/pokemon_icon_014_00.png"
-      }
-    },
-    {
-      "id": 14,
-      "name": "Kakuna",
-      "sprites": {
-        "front_default": "https://cdn.jsdelivr.net/gh/PokeMiners/pogo_assets/Images/Pokemon%20-%20256x256/pokemon_icon_014_00.png"
-      }
-    },
-    {
       "id": 15,
       "name": "Beedrill",
       "sprites": {
@@ -134,24 +120,24 @@
       }
     },
     {
-      "id": 17,
-      "name": "Pidgeot",
-      "sprites": {
-        "front_default": "https://cdn.jsdelivr.net/gh/PokeMiners/pogo_assets/Images/Pokemon%20-%20256x256/pokemon_icon_017_00.png"
-      }
-    },
-    {
       "id": 18,
-      "name": "Rattata",
+      "name": "Pidgeot",
       "sprites": {
         "front_default": "https://cdn.jsdelivr.net/gh/PokeMiners/pogo_assets/Images/Pokemon%20-%20256x256/pokemon_icon_018_00.png"
       }
     },
     {
       "id": 19,
-      "name": "Raticate",
+      "name": "Rattata",
       "sprites": {
         "front_default": "https://cdn.jsdelivr.net/gh/PokeMiners/pogo_assets/Images/Pokemon%20-%20256x256/pokemon_icon_019_00.png"
+      }
+    },
+    {
+      "id": 20,
+      "name": "Raticate",
+      "sprites": {
+        "front_default": "https://cdn.jsdelivr.net/gh/PokeMiners/pogo_assets/Images/Pokemon%20-%20256x256/pokemon_icon_020_00.png"
       }
     }
   ]
