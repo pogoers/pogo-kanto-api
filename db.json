@@ -20,6 +20,139 @@
       "sprites": {
         "front_default": "https://cdn.jsdelivr.net/gh/PokeMiners/pogo_assets/Images/Pokemon%20-%20256x256/pokemon_icon_003_00.png"
       }
+    },
+    {
+      "id": 4,
+      "name": "Charmander",
+      "sprites": {
+        "front_default": "https://cdn.jsdelivr.net/gh/PokeMiners/pogo_assets/Images/Pokemon%20-%20256x256/pokemon_icon_004_00.png"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Charmeleon",
+      "sprites": {
+        "front_default": "https://cdn.jsdelivr.net/gh/PokeMiners/pogo_assets/Images/Pokemon%20-%20256x256/pokemon_icon_005_00.png"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Charizard",
+      "sprites": {
+        "front_default": "https://cdn.jsdelivr.net/gh/PokeMiners/pogo_assets/Images/Pokemon%20-%20256x256/pokemon_icon_006_00.png"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Squirtle",
+      "sprites": {
+        "front_default": "https://cdn.jsdelivr.net/gh/PokeMiners/pogo_assets/Images/Pokemon%20-%20256x256/pokemon_icon_007_00.png"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Wartortle",
+      "sprites": {
+        "front_default": "https://cdn.jsdelivr.net/gh/PokeMiners/pogo_assets/Images/Pokemon%20-%20256x256/pokemon_icon_008_00.png"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Blastoise",
+      "sprites": {
+        "front_default": "https://cdn.jsdelivr.net/gh/PokeMiners/pogo_assets/Images/Pokemon%20-%20256x256/pokemon_icon_009_00.png"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Caterpie",
+      "sprites": {
+        "front_default": "https://cdn.jsdelivr.net/gh/PokeMiners/pogo_assets/Images/Pokemon%20-%20256x256/pokemon_icon_010_00.png"
+      }
+    },
+    {
+      "id": 11,
+      "name": "Metapod",
+      "sprites": {
+        "front_default": "https://cdn.jsdelivr.net/gh/PokeMiners/pogo_assets/Images/Pokemon%20-%20256x256/pokemon_icon_011_00.png"
+      }
+    },
+    {
+      "id": 12,
+      "name": "Butterfree",
+      "sprites": {
+        "front_default": "https://cdn.jsdelivr.net/gh/PokeMiners/pogo_assets/Images/Pokemon%20-%20256x256/pokemon_icon_012_00.png"
+      }
+    },
+    {
+      "id": 13,
+      "name": "Weedle",
+      "sprites": {
+        "front_default": "https://cdn.jsdelivr.net/gh/PokeMiners/pogo_assets/Images/Pokemon%20-%20256x256/pokemon_icon_013_00.png"
+      }
+    },
+    {
+      "id": 14,
+      "name": "Kakuna",
+      "sprites": {
+        "front_default": "https://cdn.jsdelivr.net/gh/PokeMiners/pogo_assets/Images/Pokemon%20-%20256x256/pokemon_icon_014_00.png"
+      }
+    },
+    {
+      "id": 14,
+      "name": "Kakuna",
+      "sprites": {
+        "front_default": "https://cdn.jsdelivr.net/gh/PokeMiners/pogo_assets/Images/Pokemon%20-%20256x256/pokemon_icon_014_00.png"
+      }
+    },
+    {
+      "id": 14,
+      "name": "Kakuna",
+      "sprites": {
+        "front_default": "https://cdn.jsdelivr.net/gh/PokeMiners/pogo_assets/Images/Pokemon%20-%20256x256/pokemon_icon_014_00.png"
+      }
+    },
+    {
+      "id": 15,
+      "name": "Beedrill",
+      "sprites": {
+        "front_default": "https://cdn.jsdelivr.net/gh/PokeMiners/pogo_assets/Images/Pokemon%20-%20256x256/pokemon_icon_015_00.png"
+      }
+    },
+    {
+      "id": 16,
+      "name": "Pidgey",
+      "sprites": {
+        "front_default": "https://cdn.jsdelivr.net/gh/PokeMiners/pogo_assets/Images/Pokemon%20-%20256x256/pokemon_icon_016_00.png"
+      }
+    },
+    {
+      "id": 17,
+      "name": "Pidgeotto",
+      "sprites": {
+        "front_default": "https://cdn.jsdelivr.net/gh/PokeMiners/pogo_assets/Images/Pokemon%20-%20256x256/pokemon_icon_017_00.png"
+      }
+    },
+    {
+      "id": 17,
+      "name": "Pidgeot",
+      "sprites": {
+        "front_default": "https://cdn.jsdelivr.net/gh/PokeMiners/pogo_assets/Images/Pokemon%20-%20256x256/pokemon_icon_017_00.png"
+      }
+    },
+    {
+      "id": 18,
+      "name": "Rattata",
+      "sprites": {
+        "front_default": "https://cdn.jsdelivr.net/gh/PokeMiners/pogo_assets/Images/Pokemon%20-%20256x256/pokemon_icon_018_00.png"
+      }
+    },
+    {
+      "id": 19,
+      "name": "Raticate",
+      "sprites": {
+        "front_default": "https://cdn.jsdelivr.net/gh/PokeMiners/pogo_assets/Images/Pokemon%20-%20256x256/pokemon_icon_019_00.png"
+      }
     }
   ]
 }
