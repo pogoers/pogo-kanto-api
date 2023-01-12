@@ -1,5 +1,5 @@
 {
-  "pokemon": [
+  "kanto_pokemon": [
     {
       "id": 1,
       "name": "Bulbasaur",
