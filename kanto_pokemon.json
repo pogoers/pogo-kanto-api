@@ -1,201 +1,221 @@
 {
-  "kanto_pokemon": [
+  "Kanto_pokemon": [
     {
       "id": 1,
+      "pokedex_entry": 1,
       "name": "Bulbasaur",
       "family": "Bulbasaur",
       "generation": 1,
-      "reigon": "kanto",
+      "reigon": "Kanto",
       "sprites": {
         "front_default": "https://cdn.jsdelivr.net/gh/PokeMiners/pogo_assets/Images/Pokemon%20-%20256x256/pokemon_icon_001_00.png"
       }
     },
     {
       "id": 2,
+      "pokedex_entry": 2,
       "name": "Ivysaur",
       "family": "Bulbasaur",
       "generation": 1,
-      "reigon": "kanto",
+      "reigon": "Kanto",
       "sprites": {
         "front_default": "https://cdn.jsdelivr.net/gh/PokeMiners/pogo_assets/Images/Pokemon%20-%20256x256/pokemon_icon_002_00.png"
       }
     },
     {
       "id": 3,
+      "pokedex_entry": 3,
       "name": "Venusaur",
       "family": "Bulbasaur",
       "generation": 1,
-      "reigon": "kanto",
+      "reigon": "Kanto",
       "sprites": {
         "front_default": "https://cdn.jsdelivr.net/gh/PokeMiners/pogo_assets/Images/Pokemon%20-%20256x256/pokemon_icon_003_00.png"
       }
     },
     {
       "id": 4,
+      "pokedex_entry": 4,
       "name": "Charmander",
       "family": "Charmander",
       "generation": 1,
-      "reigon": "kanto",
+      "reigon": "Kanto",
       "sprites": {
         "front_default": "https://cdn.jsdelivr.net/gh/PokeMiners/pogo_assets/Images/Pokemon%20-%20256x256/pokemon_icon_004_00.png"
       }
     },
     {
       "id": 5,
+      "pokedex_entry": 5,
       "name": "Charmeleon",
       "family": "Charmander",
       "generation": 1,
-      "reigon": "kanto",
+      "reigon": "Kanto",
       "sprites": {
         "front_default": "https://cdn.jsdelivr.net/gh/PokeMiners/pogo_assets/Images/Pokemon%20-%20256x256/pokemon_icon_005_00.png"
       }
     },
     {
       "id": 6,
+      "pokedex_entry": 6,
       "name": "Charizard",
       "family": "Charmander",
       "generation": 1,
-      "reigon": "kanto",
+      "reigon": "Kanto",
       "sprites": {
         "front_default": "https://cdn.jsdelivr.net/gh/PokeMiners/pogo_assets/Images/Pokemon%20-%20256x256/pokemon_icon_006_00.png"
       }
     },
     {
       "id": 7,
+      "pokedex_entry": 7,
       "name": "Squirtle",
       "family": "Squirtle",
       "generation": 1,
-      "reigon": "kanto",
+      "reigon": "Kanto",
       "sprites": {
         "front_default": "https://cdn.jsdelivr.net/gh/PokeMiners/pogo_assets/Images/Pokemon%20-%20256x256/pokemon_icon_007_00.png"
       }
     },
     {
       "id": 8,
+      "pokedex_entry": 8,
       "name": "Wartortle",
       "family": "Squirtle",
       "generation": 1,
-      "reigon": "kanto",
+      "reigon": "Kanto",
       "sprites": {
         "front_default": "https://cdn.jsdelivr.net/gh/PokeMiners/pogo_assets/Images/Pokemon%20-%20256x256/pokemon_icon_008_00.png"
       }
     },
     {
       "id": 9,
+      "pokedex_entry": 9,
       "name": "Blastoise",
       "family": "Squirtle",
       "generation": 1,
-      "reigon": "kanto",
+      "reigon": "Kanto",
       "sprites": {
         "front_default": "https://cdn.jsdelivr.net/gh/PokeMiners/pogo_assets/Images/Pokemon%20-%20256x256/pokemon_icon_009_00.png"
       }
     },
     {
       "id": 10,
+      "pokedex_entry": 10,
       "name": "Caterpie",
       "family": "Caterpie",
       "generation": 1,
-      "reigon": "kanto",
+      "reigon": "Kanto",
       "sprites": {
         "front_default": "https://cdn.jsdelivr.net/gh/PokeMiners/pogo_assets/Images/Pokemon%20-%20256x256/pokemon_icon_010_00.png"
       }
     },
     {
       "id": 11,
+      "pokedex_entry": 11,
       "name": "Metapod",
       "family": "Caterpie",
       "generation": 1,
-      "reigon": "kanto",
+      "reigon": "Kanto",
       "sprites": {
         "front_default": "https://cdn.jsdelivr.net/gh/PokeMiners/pogo_assets/Images/Pokemon%20-%20256x256/pokemon_icon_011_00.png"
       }
     },
     {
       "id": 12,
+      "pokedex_entry": 12,
       "name": "Butterfree",
       "family": "Caterpie",
       "generation": 1,
-      "reigon": "kanto",
+      "reigon": "Kanto",
       "sprites": {
         "front_default": "https://cdn.jsdelivr.net/gh/PokeMiners/pogo_assets/Images/Pokemon%20-%20256x256/pokemon_icon_012_00.png"
       }
     },
     {
       "id": 13,
+      "pokedex_entry": 13,
       "name": "Weedle",
       "family": "Weedle",
       "generation": 1,
-      "reigon": "kanto",
+      "reigon": "Kanto",
       "sprites": {
         "front_default": "https://cdn.jsdelivr.net/gh/PokeMiners/pogo_assets/Images/Pokemon%20-%20256x256/pokemon_icon_013_00.png"
       }
     },
     {
       "id": 14,
+      "pokedex_entry": 14,
       "name": "Kakuna",
       "family": "Weedle",
       "generation": 1,
-      "reigon": "kanto",
+      "reigon": "Kanto",
       "sprites": {
         "front_default": "https://cdn.jsdelivr.net/gh/PokeMiners/pogo_assets/Images/Pokemon%20-%20256x256/pokemon_icon_014_00.png"
       }
     },
     {
       "id": 15,
+      "pokedex_entry": 15,
       "name": "Beedrill",
       "family": "Weedle",
       "generation": 1,
-      "reigon": "kanto",
+      "reigon": "Kanto",
       "sprites": {
         "front_default": "https://cdn.jsdelivr.net/gh/PokeMiners/pogo_assets/Images/Pokemon%20-%20256x256/pokemon_icon_015_00.png"
       }
     },
     {
       "id": 16,
+      "pokedex_entry": 16,
       "name": "Pidgey",
       "family": "Pidgey",
       "generation": 1,
-      "reigon": "kanto",
+      "reigon": "Kanto",
       "sprites": {
         "front_default": "https://cdn.jsdelivr.net/gh/PokeMiners/pogo_assets/Images/Pokemon%20-%20256x256/pokemon_icon_016_00.png"
       }
     },
     {
       "id": 17,
+      "pokedex_entry": 17,
       "name": "Pidgeotto",
       "family": "Pidgey",
       "generation": 1,
-      "reigon": "kanto",
+      "reigon": "Kanto",
       "sprites": {
         "front_default": "https://cdn.jsdelivr.net/gh/PokeMiners/pogo_assets/Images/Pokemon%20-%20256x256/pokemon_icon_017_00.png"
       }
     },
     {
       "id": 18,
+      "pokedex_entry": 18,
       "name": "Pidgeot",
       "family": "Pidgey",
       "generation": 1,
-      "reigon": "kanto",
+      "reigon": "Kanto",
       "sprites": {
         "front_default": "https://cdn.jsdelivr.net/gh/PokeMiners/pogo_assets/Images/Pokemon%20-%20256x256/pokemon_icon_018_00.png"
       }
     },
     {
       "id": 19,
+      "pokedex_entry": 19,
       "name": "Rattata",
       "family": "Rattata",
       "generation": 1,
-      "reigon": "kanto",
+      "reigon": "Kanto",
       "sprites": {
         "front_default": "https://cdn.jsdelivr.net/gh/PokeMiners/pogo_assets/Images/Pokemon%20-%20256x256/pokemon_icon_019_00.png"
       }
     },
     {
       "id": 20,
+      "pokedex_entry": 20,
       "name": "Raticate",
       "family": "Rattata",
       "generation": 1,
-      "reigon": "kanto",
+      "reigon": "Kanto",
       "sprites": {
         "front_default": "https://cdn.jsdelivr.net/gh/PokeMiners/pogo_assets/Images/Pokemon%20-%20256x256/pokemon_icon_020_00.png"
       }
